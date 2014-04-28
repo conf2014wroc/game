@@ -1,0 +1,9 @@
+import hashlib
+import random
+
+a='0omLcfdFP3tnDnx5dfez3'
+
+m = hashlib.sha1()
+m.update(a)
+hash=m.hexdigest()
+print hash
