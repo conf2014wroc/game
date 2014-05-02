@@ -1,0 +1,20 @@
+body {
+margin: 0px;
+padding: 0px;
+background-color:000000;
+background-image:url('../img/bg.jpg');
+}
+
+.main_tyle {
+	background-image: url(../img/list.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 830px;
+	margin: 0px;
+	padding-left: 80px;
+	padding-top: 120px;
+	padding-right: 50px;
+	padding-bottom: 50;
+	min-height: 500px;
+
+}
